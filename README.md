@@ -3,7 +3,7 @@ TheBlueBeast Core integration/staging tree
 
 [![Build Status](https://travis-ci.org/thebluebeast-project/thebluebeast.svg?branch=master)](https://travis-ci.org/thebluebeast-project/thebluebeast)
 
-https://thebluebeast.org
+https://thebluebeast.com
 
 What is TheBlueBeast?
 ----------------
@@ -15,7 +15,7 @@ out collectively by the network, creating an artificial neural network. This is 
 software which enables the use of this currency.
 
 For more information, a working source, as well as an immediately useable, binary version of
-the TheBlueBeast Core software, see [https://thebluebeast.org](https://thebluebeast.org).
+the TheBlueBeast Core software, see [https://thebluebeast.com](https://thebluebeast.com).
 
 License
 -------
@@ -28,7 +28,7 @@ Development Process
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
 completely stable. [Tags](https://github.com/thebluebeast-project/thebluebeast/tags) are created
-regularly to indicate new official, stable release versions of TheBlueBeast Core. However these should be acquired in workling binary order at [https://thebluebeast.org](https://thebluebeast.org).
+regularly to indicate new official, stable release versions of TheBlueBeast Core. However these should be acquired in workling binary order at [https://thebluebeast.com](https://thebluebeast.com).
 
 The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md).
 
