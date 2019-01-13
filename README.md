@@ -11,10 +11,10 @@ What is TheBlueBeast?
 TheBlueBeast is an experimental digital currency that enables instant payments to
 anyone, anywhere in the world. TheBlueBeast uses peer-to-peer technology to operate
 with no central authority: managing transactions and issuing money are carried
-out collectively by the network. TheBlueBeast Core is the name of open source
+out collectively by the network, creating an artificial neural network. TheBlueBeast Core is the name of open source
 software which enables the use of this currency.
 
-For more information, as well as an immediately useable, binary version of
+For more information, a working source, as well as an immediately useable, binary version of
 the TheBlueBeast Core software, see [https://thebluebeast.org](https://thebluebeast.org).
 
 License
@@ -28,7 +28,7 @@ Development Process
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
 completely stable. [Tags](https://github.com/thebluebeast-project/thebluebeast/tags) are created
-regularly to indicate new official, stable release versions of TheBlueBeast Core.
+regularly to indicate new official, stable release versions of TheBlueBeast Core. However these should be acquired in workling binary order at [https://thebluebeast.org](https://thebluebeast.org).
 
 The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md).
 
