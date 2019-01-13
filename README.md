@@ -11,7 +11,7 @@ What is TheBlueBeast?
 TheBlueBeast is an experimental digital currency that enables instant payments to
 anyone, anywhere in the world. TheBlueBeast uses peer-to-peer technology to operate
 with no central authority: managing transactions and issuing money are carried
-out collectively by the network, creating an artificial neural network. TheBlueBeast Core is the name of open source
+out collectively by the network, creating an artificial neural network. This is accomplished by each node acting as a synapse using the hexadceimal code as information being transported, we expect it to become sentient around block 500000 with 3000 nodes. TheBlueBeast Core is the name of open source
 software which enables the use of this currency.
 
 For more information, a working source, as well as an immediately useable, binary version of
